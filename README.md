@@ -1,17 +1,57 @@
-# login_flow
+# Flutter Authentication App
 
-A new Flutter project.
+This Flutter app demonstrates authentication functionalities including login, sign up, and password reset using email.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Login Screen
+<img width="162" alt="login_1" src="https://github.com/abhishek2355/login_flow/assets/90473454/b3f7ae2f-7d74-4cd3-8470-a624250ef418">
 
-A few resources to get you started if this is your first Flutter project:
+### Sign Up Screen
+<img width="163" alt="signUp" src="https://github.com/abhishek2355/login_flow/assets/90473454/14e1b059-be84-402c-8c84-2061e0f2380e">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# login_flow" 
+### Password Reset Screen
+<img width="157" alt="forgot" src="https://github.com/abhishek2355/login_flow/assets/90473454/c04f2d87-61ee-4aa4-8c9b-f44556b0a815">
+
+
+## Features
+
+- User authentication with email and password.
+- Sign up with email and password.
+- Reset password using email.
+
+## Setup
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/flutter-authentication-app.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd flutter-authentication-app
+    ```
+
+3. **Run the app:**
+    ```bash
+    flutter run
+    ```
+
+## Dependencies
+
+- `provider` for state management.
+- `firebase_auth` for authentication.
+- `firebase_core` for Firebase setup.
+
+## Usage
+
+1. **Login Screen:**
+    - Enter your registered email and password to log in.
+    - Option to reset password.
+
+2. **Sign Up Screen:**
+    - Enter your name, email, and password to create a new account.
+
+3. **Password Reset Screen:**
+    - Enter your email to receive a password reset link.
