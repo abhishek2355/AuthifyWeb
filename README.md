@@ -1,4 +1,4 @@
-# Flutter Authentication App
+# Flutter Authentication Web App
 
 This Flutter app demonstrates authentication functionalities including login, sign up, and password reset using email.
 
