@@ -3,22 +3,23 @@
 This Flutter app demonstrates authentication functionalities including login, sign up, and password reset using email.
 
 ## Screenshots
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center;">
-    <h3>Login Screen</h3>
-    <img width="162" alt="login_1" src="https://github.com/abhishek2355/login_flow/assets/90473454/b3f7ae2f-7d74-4cd3-8470-a624250ef418">
-  </div>
-  
-  <div style="text-align: center;">
-    <h3>Sign Up Screen</h3>
-    <img width="163" alt="signUp" src="https://github.com/abhishek2355/login_flow/assets/90473454/14e1b059-be84-402c-8c84-2061e0f2380e">
-  </div>
-  
-  <div style="text-align: center;">
-    <h3>Password Reset Screen</h3>
-    <img width="157" alt="forgot" src="https://github.com/abhishek2355/login_flow/assets/90473454/c04f2d87-61ee-4aa4-8c9b-f44556b0a815">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <p>Login Screen</p>
+      <img alt="login_1" src="https://github.com/abhishek2355/login_flow/assets/90473454/b3f7ae2f-7d74-4cd3-8470-a624250ef418">
+    </td>
+    <td align="center">
+      <p>Sign Up Screen</p>
+      <img alt="signUp" src="https://github.com/abhishek2355/login_flow/assets/90473454/14e1b059-be84-402c-8c84-2061e0f2380e">
+    </td>
+    <td align="center">
+      <p>Password Reset Screen</p>
+      <img alt="forgot" src="https://github.com/abhishek2355/login_flow/assets/90473454/c04f2d87-61ee-4aa4-8c9b-f44556b0a815">
+    </td>
+  </tr>
+</table>
+
 
 
 
